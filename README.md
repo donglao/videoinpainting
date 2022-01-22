@@ -4,9 +4,9 @@ This is the demo code for 'Flow-guided Video Inpainting With Scene Template (ICC
 
 [![Demo Video](pics/thumbnail.png)](https://youtu.be/v8YZ7X6NChQ)
   
-Now a [Matlab demo](https://drive.google.com/file/d/1sj1ef5BzlSKK9qwFE37l89Hsgw2ZI1yt/view?usp=sharing) can be downloaded from Google Drive. The code is configured for Matlab + Ubuntu due to its dependency of SobolevFlow (Mex/C++). I am working on migrating the code to support Python.
+Now a [Matlab demo](https://drive.google.com/file/d/1sj1ef5BzlSKK9qwFE37l89Hsgw2ZI1yt/view?usp=sharing) can be downloaded from Google Drive. The code is configured for Matlab + Ubuntu due to its dependency of SobolevFlow (Mex/C++ on Linux). You may also play around by using pre-computed flow as initialization, or disable SobolevFlow (which will significantly reduce performance). I am working on migrating the code into python + pytorch.
 
-An [evaluation toolbox](https://drive.google.com/file/d/1Z_vrebbz23E6URknGG-sWjiDFs7vTa7M/view?usp=sharing) can be downloaded to compute TPSNR and TSSIM (temporal consistency).
+An [evaluation toolbox](https://drive.google.com/file/d/1Z_vrebbz23E6URknGG-sWjiDFs7vTa7M/view?usp=sharing) can be downloaded to measuring temporal consistency of inpainted regions.
 
 
 ## Fun Stuff
