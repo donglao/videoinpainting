@@ -8,6 +8,7 @@ Now a [Matlab demo](https://drive.google.com/file/d/1sj1ef5BzlSKK9qwFE37l89Hsgw2
 
 An [evaluation toolbox](https://drive.google.com/file/d/1Z_vrebbz23E6URknGG-sWjiDFs7vTa7M/view?usp=sharing) can be downloaded to measuring temporal consistency of inpainted regions.
 
+The [Foreground Removal Data](https://drive.google.com/file/d/1IaD3kMN1mlA-d3KMlPsgD9KuummuCdIC/view?usp=sharing) can be downloaded. One may also manipulate the masks with ground truth background videos to create more data.
 
 ## Fun Stuff
 ![Fun stuff](pics/fun.gif)
